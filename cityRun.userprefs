@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\movement.js">
+    <Files>
+      <File FileName="Assets\scripts\movement.js" Line="195" Column="19" />
+      <File FileName="Assets\scripts\playerGeneral.js" Line="10" Column="2" />
+      <File FileName="Assets\scripts\coinRemove.js" Line="12" Column="26" />
+      <File FileName="Assets\scripts\camera.js" Line="13" Column="104" />
+      <File FileName="Assets\scripts\trigger.js" Line="12" Column="54" />
+      <File FileName="Assets\scripts\mainMenu.js" Line="17" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
